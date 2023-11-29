@@ -1,0 +1,19 @@
+.it_header__container{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px ;
+}
+
+.it_header__container p{
+font-family: var(--Crimsom);
+font-size: 14px;
+padding: 10px;
+font-weight: 200;
+line-height: 16px;
+border: 1px solid #fff;
+}
+
+.nav__menu-icon{
+    background-color: transparent;
+    cursor: pointer;
+}
