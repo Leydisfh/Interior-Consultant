@@ -36,13 +36,23 @@ border: 1px solid #fff;
         gap: 25px;
     }
 
-    .it_header__nav a{
-        color: #fff;
-        padding: 5px;
-        font-family: var(--Monts);
-        font-weight: 500;
-
-    }
+    nav:hover .home {
+        border: none;
+      }
+    
+      
+      .it_header__nav a{
+          color: #fff;
+          transition: border-bottom .5s ease;
+          padding: 5px;
+          font-family: var(--Monts);
+          font-weight: 500;
+          font-size: 18px;
+          
+        }
+        .it_header__nav__conrtainer a:hover{
+            border-bottom: 2px solid #fff;
+        }
     .home{
         font-weight: 700;
         border-bottom: 1.5px solid #fff ;

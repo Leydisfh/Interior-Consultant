@@ -1,0 +1,43 @@
+.it_header__nav__conrtainer{
+    height: 80vh;
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.it_header__nav__conrtainer a{
+    color: #fff;
+    font-family: var(--Monts);
+    font-weight: 700;
+    font-size: 16px;
+}
+nav:hover .home {
+    border: none;
+  }
+
+.it_header__nav__conrtainer a:hover{
+    border-bottom: 2px solid #fff;
+}
+
+.home{
+    border-bottom: 2px solid #fff;
+    padding: 2px;
+}
+
+
+
+header{
+    display: flex;
+    justify-content: end;
+}
+
+header img{
+    padding: 15px;
+    width: 50px;
+    margin-right: 10px;
+    cursor: pointer;
+    
+}
+
