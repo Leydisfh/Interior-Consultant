@@ -38,13 +38,13 @@
 <br>
 <br>
 
-Durante la realización de este último proyecto, pude poner en práctica algunas habilidades y conocimientos técnicos que me permitieron llevar a cabo con éxito el desarrollo de este sitio web utilizando únicamente HTML y CSS. 
+During the execution of this project, I was able to put into practice some technical skills and knowledge that allowed me to successfully develop this website using only **HTML** and **CSS**.
 
-Implementé  **display flex** y **display grid**, dos propiedades de CSS que son fundamentales para la creación de diseños web responsivos. Estas herramientas me permitieron controlar el diseño y la disposición de los elementos en la página, lo que resultó en un sitio web visualmente atractivo y fácil de navegar.
+I implemented display flex and display grid, two CSS properties that are essential for creating responsive web designs. These tools allowed me to control the layout and arrangement of elements on the page, resulting in a visually appealing and easy-to-navigate website.
 
-Para la versión móvil del sitio, diseñé un **menú lateral**. Este menú se despliega cuando el usuario hace clic en el icono del menú, proporcionando una navegación fácil e intuitiva 
+For the mobile version of the site, I designed a side menu. This menu is activated when the user clicks on the menu icon, providing easy and intuitive navigation.
 
-Todo el proyecto fue realizado a partir de un diseño ya establecido en **Figma**, una herramienta de diseño de interfaz de usuario. Esto implicó la traducción de un diseño estático a un sitio web funcional, lo que requirió una comprensión sólida de cómo los elementos de diseño se traducen en código.
+The entire project was based on a design already established in **Figma**, a user interface design tool. This involved translating a static design into a functional website, requiring a solid understanding of how design elements are translated into code.
 <br>
 ### Built With
 
