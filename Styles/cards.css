@@ -63,3 +63,32 @@ aside p{
         grid-row: 5/8;
     }
 }
+
+@media screen and (min-width:768px){
+    .it_cards__img{
+        width: 50%;
+        
+    }
+    .it_cards__img img{
+        grid-column:1/7 ;
+    }
+
+    .it_cards_container{
+        width: 75%;
+        margin: auto;
+        grid-column: 3/7;
+        grid-row: 5/7;
+    }
+}
+
+@media screen and (min-width:1024px){
+    .it_cards_container{
+        grid-row: 5/8;
+    }
+}
+
+@media screen and (width > 1024px){
+    .it_cards_container{
+        grid-row: 6/8;
+    }
+}

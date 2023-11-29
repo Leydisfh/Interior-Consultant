@@ -4,6 +4,10 @@
     margin: 15px ;
 }
 
+.it_header__nav{
+    display: none;
+}
+
 .it_header__container p{
 font-family: var(--Crimsom);
 font-size: 14px;
@@ -16,4 +20,31 @@ border: 1px solid #fff;
 .nav__menu-icon{
     background-color: transparent;
     cursor: pointer;
+}
+
+@media (min-width:768px) {
+    .it_header__container{
+        width: 80%;
+        margin: 15px auto;
+    }
+    .nav__menu-icon{
+        display: none;
+    }
+
+   .it_header__nav{
+        display: flex;
+        gap: 25px;
+    }
+
+    .it_header__nav a{
+        color: #fff;
+        padding: 5px;
+        font-family: var(--Monts);
+        font-weight: 500;
+
+    }
+    .home{
+        font-weight: 700;
+        border-bottom: 1.5px solid #fff ;
+    }
 }
