@@ -31,9 +31,10 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](mobile.png)
-![screenshot](menu.png)
+<div align= "center">   
+<img src="mobile.png" />
+<img src="menu.png" />
+</div>
 
 <br>
 <br>
