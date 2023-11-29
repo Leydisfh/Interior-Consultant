@@ -8,12 +8,8 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://interior-consultant-ten-drab.vercel.app/">
       Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
@@ -39,13 +35,17 @@
 ![screenshot](mobile.png)
 ![screenshot](menu.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<br>
+<br>
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+Durante la realización de este último proyecto, pude poner en práctica algunas habilidades y conocimientos técnicos que me permitieron llevar a cabo con éxito el desarrollo de este sitio web utilizando únicamente HTML y CSS. 
 
+Implementé  **display flex** y **display grid**, dos propiedades de CSS que son fundamentales para la creación de diseños web responsivos. Estas herramientas me permitieron controlar el diseño y la disposición de los elementos en la página, lo que resultó en un sitio web visualmente atractivo y fácil de navegar.
+
+Para la versión móvil del sitio, diseñé un **menú lateral**. Este menú se despliega cuando el usuario hace clic en el icono del menú, proporcionando una navegación fácil e intuitiva 
+
+Todo el proyecto fue realizado a partir de un diseño ya establecido en **Figma**, una herramienta de diseño de interfaz de usuario. Esto implicó la traducción de un diseño estático a un sitio web funcional, lo que requirió una comprensión sólida de cómo los elementos de diseño se traducen en código.
+<br>
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
